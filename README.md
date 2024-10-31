@@ -1,2 +1,2 @@
-  Título do meu projeto
+Título do meu projeto. 
   
